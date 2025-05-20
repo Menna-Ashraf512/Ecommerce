@@ -70,10 +70,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "frechCart:build:production"
+              "buildTarget": "megacart:build:production"
             },
             "development": {
-              "buildTarget": "frechCart:build:development"
+              "buildTarget": "megacart:build:development"
             }
           },
           "defaultConfiguration": "development"

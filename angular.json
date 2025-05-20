@@ -39,7 +39,8 @@
             ],
             "scripts": [
               "node_modules/flowbite/dist/flowbite.min.js"
-            ]
+            ],
+             "baseHref": "/"   
           },
           "configurations": {
             "production": {

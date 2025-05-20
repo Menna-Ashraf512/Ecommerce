@@ -1,0 +1,1 @@
+import{a}from"./chunk-P6UFGCCT.js";import"./chunk-2HXIZJS6.js";import"./chunk-ZSSD5RUB.js";import"./chunk-CDTZA3VN.js";import"./chunk-3KDYLMZQ.js";import"./chunk-VHZDE6SP.js";export{a as BrandsComponent};

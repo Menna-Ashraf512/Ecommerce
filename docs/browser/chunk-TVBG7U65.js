@@ -1,0 +1,1 @@
+import{Lc as i,T as e,Y as r}from"./chunk-VHZDE6SP.js";var o=class t{constructor(n){this.__httpClient=n}getAllCategories(){return this.__httpClient.get("https://ecommerce.routemisr.com/api/v1/categories")}static \u0275fac=function(a){return new(a||t)(r(i))};static \u0275prov=e({token:t,factory:t.\u0275fac,providedIn:"root"})};export{o as a};

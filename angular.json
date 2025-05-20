@@ -40,7 +40,7 @@
             "scripts": [
               "node_modules/flowbite/dist/flowbite.min.js"
             ],
-             "baseHref": "/"   
+             "baseHref": "https://menna-ashraf512.github.io/Ecommerce/"   
           },
           "configurations": {
             "production": {

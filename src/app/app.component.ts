@@ -12,7 +12,7 @@ import { NgxSpinnerComponent } from 'ngx-spinner';
   styleUrl: './app.component.scss'
 })
 export class AppComponent implements OnInit {
-  title = 'frechCart';
+  title = 'megacart';
   flowbiteService =inject(FlowbiteService)
   constructor(){
     afterNextRender(()=>{
